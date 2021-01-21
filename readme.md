@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    ![Profile views](https://gpvc.arturio.dev/royantar0311)
+  <img src = "https://gpvc.arturio.dev/royantar0311">
 </p>
 
 ## ⚙️ Tools & Technologies
