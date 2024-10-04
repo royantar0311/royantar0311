@@ -3,7 +3,7 @@
 <p align="center">
   <a href="mailto:royantar1@gmail.com"><img height="30" src="https://i.imgur.com/FOxl535.png"></a>
 <!--   <a href="https://www.linkedin.com/in/royantar0311/"><img height="30" src="https://i.imgur.com/HvkYBE2.png"></a> -->
-  <a href="https://www.facebook.com/roy.11801078"><img height="30" src="https://i.imgur.com/wyJq4zr.png"></a>&nbsp;&nbsp;&nbsp;
+<!--   <a href="https://www.facebook.com/roy.11801078"><img height="30" src="https://i.imgur.com/wyJq4zr.png"></a>&nbsp;&nbsp;&nbsp; -->
   <a href="https://github.com/royantar0311"><img height="30" src="https://i.imgur.com/XJ3InNT.jpg"></a>
 </p>
 
